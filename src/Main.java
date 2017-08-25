@@ -11,6 +11,7 @@ public class Main {
 	private static void greet(String name){
 		System.out.println("Greetings!, Git");
 		System.out.println("I am " + name );
+		System.out.println("Fair well!!!!!!");
 	}
 	
 	private static void getRectangleArea(){
